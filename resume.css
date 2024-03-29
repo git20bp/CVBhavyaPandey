@@ -1,0 +1,26 @@
+body{background-color: #88B8D5; margin: 1%; border: 10px  solid black; padding: 2%;}
+
+#content img {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+
+header > h1{display: inline-block;}
+header span{text-align: justify margin-left: 150px;}
+.new1{
+  border-top: 3px solid black;
+}
+table{
+  font-family: Times New Roman;
+  border-collapse: collapse;
+  width:100%;
+
+}
+td, th{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 5px;
+}
+header>h3{display: inline-block;}
+h3 span{margin-left: 150px;}
